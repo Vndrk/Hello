@@ -4,7 +4,7 @@ new string
 Dick!!!
 Bitch!!!
 Hello git rebase!!!
-Hello git cherry-pick! 
+Hello git no cherry-pick! 
 
 
 
